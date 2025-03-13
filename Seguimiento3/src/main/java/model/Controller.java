@@ -22,7 +22,10 @@ public class Controller {
     }
     public int bitCounter(int bits){
         int count = 0;
+        n=bits;
+        for(int i = 0; i<n; i++){
 
+        }
         return count; //metodo que retorna conteo de 1s en una cadena de bits
     }
 }
